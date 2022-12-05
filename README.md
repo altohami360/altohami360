@@ -4,11 +4,11 @@
 
 </p>
 
-<p align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&color=F7F7F7&width=435&lines=Back-End+Developer)](https://git.io/typing-svg)
+<center>
 
-</p>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&color=F7F7F7&width=435&lines=Back-End+Developer)](https://git.io/typing-svg)
+  
+</center>
 
 <p>
 A talented software developer with experience in developing backend using Html, CSS, PHP, MySql, Laravel, and other. recognized for strong problem-solving skills, Self-study, and time management. graduated
