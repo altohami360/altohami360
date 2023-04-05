@@ -30,5 +30,3 @@ with a very good grad
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=altohami360&theme=dark)](https://git.io/streak-stats)
 
-
-<h3>Find me :</h3>
