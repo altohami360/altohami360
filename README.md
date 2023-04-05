@@ -28,5 +28,3 @@ with a very good grad
 
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=altohami360&theme=dark)](https://git.io/streak-stats)
-
