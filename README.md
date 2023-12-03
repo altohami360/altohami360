@@ -28,4 +28,5 @@ with a very good grad
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+![Visitor Count](https://profile-counter.glitch.me/altohami360/count.svg)
