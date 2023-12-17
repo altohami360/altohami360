@@ -29,4 +29,3 @@ with a very good grad
 </p>
 
 
-![Visitor Count](https://profile-counter.glitch.me/altohami360/count.svg)
