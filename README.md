@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Altohami</h1>
-<h3 align="center">Backend Engineer · Riyadh, Saudi Arabia 🇸🇦</h3>
+<h3 align="center">Software Engineer · Riyadh, Saudi Arabia</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
