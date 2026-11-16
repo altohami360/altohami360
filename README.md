@@ -11,6 +11,11 @@
     </a>
   </li>
   <li>
+    <a href="https://www.instagram.com/altohami360/" target="_blank">
+      Instagram
+    </a>
+  </li>
+  <li>
     <a href="mailto:altohami360@gmail.com">
       Email
     </a>
