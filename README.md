@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/altohami360" target="_blank">
     LinkedIn
   </a>
+  <br>
   <a href="mailto:altohami360@gmail.com">
     Email
   </a>
