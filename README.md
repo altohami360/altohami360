@@ -1,4 +1,5 @@
-<h2>Hi 👋, I'm Mohammed Altohami</h2>
+
+<h3>Hi 👋, I'm Mohammed Altohami</h3>
 <h3>Software Engineer · Riyadh, Saudi Arabia</h3>
 
 ### 🌍 Let's Connect
