@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Mohammed Altohami</h1>
 <h3>Software Engineer · Riyadh, Saudi Arabia</h3>
 
-<p align="center">
+<p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F78F1D&center=true&vCenter=true&width=600&lines=Backend+Engineer+with+3%2B+years+of+experience;PHP+%7C+Laravel+%7C+PostgreSQL+%7C+Redis;Banking+%26+Fintech+API+Integrations;Currently+learning+Ruby+on+Rails" alt="Typing SVG" />
   </a>
@@ -18,6 +18,6 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   <i>Always open to discussing backend engineering, fintech, payments, or interesting technical problems.</i>
 </p>
