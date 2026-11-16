@@ -23,5 +23,5 @@
 </ul>
 
 <p>
-  <i>Always open to discussing backend engineering, fintech, payments, or interesting technical problems.</i>
+  <i>Always open to discussing backend engineering, AI, fintech, payments, or interesting technical problems.</i>
 </p>
