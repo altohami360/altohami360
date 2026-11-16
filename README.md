@@ -1,6 +1,6 @@
 
 <h3>Hi 👋, I'm Mohammed Altohami</h3>
-<h3>Software Engineer · Riyadh, Saudi Arabia</h3>
+<p>Software Engineer · Riyadh, Saudi Arabia</p>
 
 ### 🌍 Let's Connect
 
